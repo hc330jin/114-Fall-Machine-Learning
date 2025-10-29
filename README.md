@@ -2,4 +2,4 @@
 
 > Assignments and notes
 
-> All assignments are involing using ChatGPT to some extent.
+> All assignments are involving using ChatGPT to some extent.
